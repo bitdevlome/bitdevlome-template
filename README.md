@@ -22,8 +22,7 @@ When contributing to this project, you must agree that you have authored 100% of
 #### Note
 
 > [!NOTE]
-
-Project under Apache License 2.0 version.
+> Project under Apache License 2.0 version.
 
 - Demonstrating empathy and kindness toward other people
 - Being respectful of differing opinions, viewpoints, and experiences
